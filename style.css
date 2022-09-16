@@ -117,7 +117,7 @@ section ul li:hover{
     border: 1px solid #443E54;
 }
 
-/*anoimation*/
+/*animation*/
 
 header div{
     animation:fromTop .7s .2s backwards;
